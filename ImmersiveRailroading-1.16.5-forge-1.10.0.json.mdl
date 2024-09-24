@@ -1,6 +1,6 @@
 {
   "modName": "immersiverailroading",
-  "downloadLink": "https://drive.google.com/uc?id=11pxOZkawF8d9qrab-EFboLSjwbozpIjE",
-  "isLinkOfficial": false,
-  "prefferedDownloadMethod": "gdown"
+  "downloadLink": "https://www.curseforge.com/api/v1/mods/277736/files/4970112/download",
+  "isLinkOfficial": true,
+  "prefferedDownloadMethod": "wget"
 }
